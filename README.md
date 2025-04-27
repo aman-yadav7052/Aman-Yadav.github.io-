@@ -1,12 +1,10 @@
-# Aman Yadav's Portfolio
-A personal portfolio website showcasing my projects and skills.
+# Hey, I’m Aman Yadav! 👋
+A 1st-year BTech CS student obsessed with coding, AI, and sleek web design.
 
-## Setup
-1. Clone the repo: `git clone https://github.com/aman-yadav7052/Aman-Yadav.git`
-2. Open `index.html` in a browser.
+## What I’m Up To
+- 🔥 Building a killer portfolio site.
+- 🚀 Exploring Python, JavaScript, and beyond.
 
-## Tech Stack
-- HTML, CSS, JavaScript
-
-## Contact
-- GitHub: [aman-yadav7052](https://github.com/aman-yadav7052)
+## Let’s Connect
+[Email](aman.705299@gmail.com) | [LinkedIn](www.linkedin.com/in/
+aman-yadav-4b4599342)
